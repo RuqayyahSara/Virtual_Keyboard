@@ -1,0 +1,79 @@
+.btn{ 
+       margin:7px 3px;
+       font-size: 17px;
+       border-radius: 7px;
+       /* padding: 15px 15px; */
+  }
+
+#space #spc{
+  padding-left: 250px;
+  padding-right: 110px;
+}
+
+.board{
+  margin-top: 150px;
+  border-radius: 10px ;
+  border:5px solid rgb(144, 157, 197); 
+  width: 660px;
+  background-color: rgb(11, 8, 17); 
+}
+
+span {
+  left:50%;
+  position:absolute;
+  top:110px;
+}
+
+input{
+    border:solid 3px rgb(161, 161, 161);
+    border-radius: 20px;
+    box-sizing:border-box;
+    font-size:25px;
+    height:2em;
+    margin-left:-15vw;
+    padding:.5em;
+    transition:all 2s ease-in;
+    width:30vw;
+    z-index:1;
+}
+
+.tab{
+  width:100px;
+  margin-left: -10px;
+}
+
+.shift{
+  width:110px;
+  margin-left: 0px;
+
+}
+.shifts{
+  width:110px;
+}
+
+h1{
+  color: blue;
+
+}
+
+  /* margin-left: -10px; */
+
+
+   	/* display:block; */
+      /* width:15px;
+      height:20px; */
+      /* text-align: center; */
+      /* line-height: 20px;  */
+    	/* margin:0 10px 15px 0; */
+      /* padding:10px 5px;
+    	font-family:'Arial';
+        font-size:20px; */
+        /* color: black; */
+        /* font-weight: 100; */
+        /* border-radius: 10px ;
+        border:2px solid rgb(138, 140, 153); */
+        /* transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -webkit-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+      float: left; */
