@@ -1,5 +1,5 @@
 ## Virtual Keyboard 
-###### Implemented a virtual keyboard using React JS 
+###### Implemented  virtual keyboard using React JS 
 
 Used onClick() event on each button to display the characters  &emsp;
 
